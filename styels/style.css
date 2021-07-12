@@ -89,8 +89,8 @@ hr{
          courses styles
 ------------------- */
 .courses .course img{
-    height: 104px;
-    width: 224px;
+    height: 107px;
+    width: 264px;
 }
 .course-info{
     display: flex;
@@ -132,5 +132,7 @@ hr{
     }
     .players, .blogs, .courses{
         grid-template-columns: repeat(2, 1fr);
+        
     }
+
  }
